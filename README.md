@@ -1,6 +1,11 @@
+<div align="center">
+
+### Visitors
+
 ![Visitor Count](https://profile-counter.glitch.me/{juandav}/count.svg)
 
 ### Hi there 👋
+</div>
 
 ---
 
