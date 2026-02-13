@@ -1,35 +1,77 @@
-<div align="center">
+<h1 align="center">Juan David</h1>
+<h3 align="center">Senior Software Engineer | Full-Stack Developer | Automation & Scraping Specialist</h3>
 
-### Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/{juandav}/count.svg)
-
-### Hi there 👋
-</div>
+<p align="center">
+  <a href="https://github.com/juandav">
+    <img src="https://komarev.com/ghpvc/?username=juandav&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Professional Summary
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=juandav&show_icons=true&theme=tokyonight)
+Senior Software Engineer with over 10 years of experience designing and building scalable web applications, automation systems, and backend architectures.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juandav&hide=html,css&theme=tokyonight)
+I focus on performance, clean architecture, and building tools that solve real-world business problems.
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juandav&theme=tokyonight)
+---
 
-</div>
+## 🚀 Core Expertise
 
-<!--
-**juandav/juandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full-Stack Web Development  
+- Automation Systems & Web Scraping  
+- Backend Architecture & API Design  
+- Scalable System Design  
+- Performance Optimization  
+- Clean Code & Maintainable Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,nestjs,python,mongodb,postgres,docker,git,linux" />
+</p>
+
+---
+
+## 🏗 Architecture Mindset
+
+- RESTful API Design  
+- Microservices & Modular Architectures  
+- Background Processing & Automation Pipelines  
+- Secure Data Handling  
+- High-performance scraping systems  
+- Media processing integrations (FFmpeg)
+
+---
+
+## 📌 Selected Projects
+
+🔹 **Scraping & Automation Tools**  
+Custom automation frameworks and scraping systems for dynamic web environments.
+
+🔹 **NestJS Project Boilerplates**  
+Structured backend starters for scalable enterprise applications.
+
+🔹 **FFmpeg Integrations**  
+JavaScript-based media processing solutions using FFmpeg.
+
+🔹 **Full-Stack Applications**  
+Frontend (React/TS) + Backend (Node/NestJS) production-grade systems.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juandav&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 e.juandav@gmail.com  
+🐙 https://github.com/juandav
